@@ -4,7 +4,7 @@
                                                 Formação:........ Engenharia da Computação
                                                 ───────────────────────────────────────────────────────────────────────────────────────────────
                 ==#%#%##*%-                     Linguagens:...... Python, SQL, AWS
-              .@@@@@@@@@@@%*+-                  Ferramentas:..... Jupyter Notebook, Pandas, Git, @@@@@@@@@@@@@@@@                  Machine Learning, Deep Learning, Redes Neurais
+              .@@@@@@@@@@@%*+-                  Ferramentas:..... Jupyter Notebook, Pandas, Git,                  Machine Learning, Deep Learning, Redes Neurais
              =@@@@@@@@@@@@@@@@+                 ───────────────────────────────────────────────────────────────────────────────────────────────
            .=@@@@@@@@@@@@@@@@@@@:               Interesses:...... Análise de dados, Automação
             @@@@@@@@@@@@@@@@@@@@#               ───────────────────────────────────────────────────────────────────────────────────────────────
