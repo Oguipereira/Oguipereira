@@ -4,7 +4,7 @@
                                                 Formação:........ Engenharia da Computação
                                                 ───────────────────────────────────────────────────────────────────────────────────────────────
                 ==#%#%##*%-                     Linguagens:...... Python, SQL, AWS
-              .@@@@@@@@@@@%*+-                  Ferramentas:..... Jupyter Notebook, Pandas, Git, @@@@@@@@@@@@@@@@                  Machine Learning, Deep Learning, Redes Neurais
+              .@@@@@@@@@@@%*+-                  Ferramentas:..... Jupyter Notebook, Pandas, Git, Machine Learning, Deep Learning, Redes Neurais
              =@@@@@@@@@@@@@@@@+                 ───────────────────────────────────────────────────────────────────────────────────────────────
            .=@@@@@@@@@@@@@@@@@@@:               Interesses:...... Análise de dados, Automação
             @@@@@@@@@@@@@@@@@@@@#               ───────────────────────────────────────────────────────────────────────────────────────────────
@@ -30,3 +30,7 @@
 =-...           .    .  ......::::::--:::-:
 *=:..          .     . .......::::::-::--::
 ```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,aws,git,tensorflow,pytorch,sklearn" alt="Python, SQL, AWS, Git, TensorFlow, PyTorch, Scikit-learn" />
+</p>
